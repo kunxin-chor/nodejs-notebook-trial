@@ -1,0 +1,31 @@
+{
+    "cells": [
+        {
+            "language": "javascript",
+            "source": [
+                "// This is a comment in JavaScript\r\n// Below we declare some variables\r\ncostPerCupcake = 12.50\r\nnumberBought = 4\r\nconsole.log(costPerCupcake * numberBought);"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "50",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "# Data Types in JavaScript\r\nJavaScript has the following data types:\r\n* Strings\r\n* Numbers (Integers and Floats)\r\n* Boolean"
+            ],
+            "outputs": []
+        }
+    ]
+}
